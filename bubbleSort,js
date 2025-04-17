@@ -1,0 +1,9 @@
+let array = [97, 45, 49, 32, 2, 5, 9, 99, 1, 7]
+for (i=00;i<10;i++){
+    console.log("o indice é:" + i + " o valor é:" + array [i]);
+let a = array [i]
+let b = array [i+1]
+let aux = [i]
+
+
+}
